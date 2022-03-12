@@ -55,7 +55,7 @@ console.log(passwordPool);
   var numbInclude = window.confirm("Do you want to include numbers?")
 
   if(numbInclude == true) {
-      window.alert("SExcellent!");
+      window.alert("Excellent!");
       passwordPool.push(numbers);
   } else {
       window.alert("Excellent...");
